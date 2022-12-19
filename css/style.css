@@ -27,7 +27,6 @@ html{
     scroll-padding-top: 5rem;
     scroll-behavior: smooth;
 }
-
 html::-webkit-scrollbar{
     width:1rem;
 }
@@ -39,7 +38,6 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
     background:var(--black);
 }
-
 section{
     padding:5rem 9%;
 }
